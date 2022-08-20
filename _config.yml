@@ -13,7 +13,7 @@
 title: Home
 
 # Your name to show in the footer
-author: Sajjala, Sreekar Reddy
+author: Satya
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -22,10 +22,10 @@ author: Sajjala, Sreekar Reddy
 navbar-links:
   CV: "cv"
   Projects:
-    - FEM: "fem"
-    - CFD: "cfd"
-    - FSI: "fsi"
-    - AI: "ai"
+    - PBF-LB: "fem"
+    # - CFD: "cfd"
+    # - FSI: "fsi"
+    # - AI: "ai"
   Blog: "blog"
   About Me: "aboutme"
 

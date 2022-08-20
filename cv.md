@@ -123,7 +123,7 @@ subtitle:
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
-            <div class="h5"><strong>Wissenschaftliche Hilfskraft</strong></div>
+            <div class="h5"><strong>Uppsala Universitet</strong></div>
             <p>Tasks:<br>
             • Created/ optimized VBA code for examination software<br>
             • Created a python GUI software using PyQt5.</p>

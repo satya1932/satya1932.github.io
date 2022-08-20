@@ -1,6 +1,6 @@
 ---
 layout: fem_page
-title: Finite Element Method (FEM)
+title: Power Bed Fusion (Laser Based)
 subtitle: 
 ---
 
